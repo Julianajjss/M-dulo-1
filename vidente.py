@@ -1,0 +1,10 @@
+nome = input ('Qual o nome do usúario?')
+numero  = input('Quantos filhos deseja ter?')
+cidade = input('Qual cidade gostaria de morar?')
+profissao = input('Qual a profissão dos sonhos?')
+
+print('Meu nome é:', nome)
+print('Desejo ter  filhos', numero)
+print('Gostaria de morar em:' , cidade)
+print('Profissao dos sonhos é:', profissao)
+print('A vidente prevê:' (nome) tera (numero) e viverá em (cidade) trabalhando como (profissao) em 2023')
